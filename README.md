@@ -1,35 +1,25 @@
-# vue-project
+# Learning Vue.js
 
-This template should help get you started developing with Vue 3 in Vite.
+This repository contains resources and examples to help you learn Vue.js, a progressive JavaScript framework for building user interfaces.
 
-## Recommended IDE Setup
+# Vue.js Documentation : 
+[Vue.js Official site ](https://vuejs.org/)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+## Introduction
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Vue.js is a progressive JavaScript framework for building user interfaces. It is designed from the ground up to be incrementally adoptable, and can easily scale between a library and a framework depending on different use cases. It consists of an approachable core library that focuses on the view layer only, and an ecosystem of supporting libraries that helps you tackle complexity in large Single-Page Applications.
 
-## Project Setup
+## Contents in the repository
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+    Components related code
+    Text Interpolation
+    Attribute Bindings
+    Dynamic Bindings
+    Styling in Vue
+    Event Handlers in Vue
+    Reactivity - ref() vs reactive()
+    Computed Properties
+    Conditional Rendering
+    
+    More...
