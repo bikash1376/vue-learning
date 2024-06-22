@@ -3,7 +3,7 @@ import { reactive, ref } from 'vue';
 
 const title = ref("Hello World")       
 // ref is used for single value
-const list = reactive([ref("Bikash"), ref("20"), ref("Jamshedpur")])
+const list = reactive([ref("Arun"), ref("23"), ref("Kolkata")])
 // reactive is used for multiple values like for arrays and objects
 
 </script>

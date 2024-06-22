@@ -25,7 +25,7 @@ const password = ref('123456789')
 
 </template>
 
-<style>
+<style scoped>
 img {
     width: 100px;
 }
